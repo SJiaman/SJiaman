@@ -1,4 +1,4 @@
-A software engineer learner.
+A software engineer.
 
 ![SJiman's github stats](https://github-readme-stats.vercel.app/api?username=SJiaman&show_icons=true&hide_border=false)
 
